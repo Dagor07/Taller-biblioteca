@@ -31,8 +31,7 @@ while True:
     show_library()
     option = input("Selecciona una opción (1-8): ")
     if option == "3":
-        menu_search_book
-        
+        menu_search_book()
     if option == "8":
         imprimir_con_retraso("Saliendo de la biblioteca......", 0.1)
         break
