@@ -6,6 +6,7 @@ def imprimir_con_retraso(texto, delay=0.1):
         time.sleep(delay)
     print()
 
+# Cambio solicitado
 def show_library():
     print("\n°°° Library °°°\n")
     print("1. Agregar libro")
