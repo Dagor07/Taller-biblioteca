@@ -8,7 +8,7 @@ def imprimir_con_retraso(texto, delay=0.1):
 
 # Cambio solicitado
 def show_library():
-    print("\n°°° Library °°°\n")
+    print("\n°°° BIBLIOTECA °°°\n")
     print("1. Agregar libro")
     print("2. Ver todos los libros")  
     print("3. Buscar libro")
@@ -16,7 +16,7 @@ def show_library():
     print("5. Devolver un libro")
     print("6. Ver libros prestados")
     print("7. Eliminar libro")
-    print("8. Salir de la biblioteca")
+    print("\n8. Salir de la biblioteca\n")
     
 # Funcion case 3
 def menu_search_book():
