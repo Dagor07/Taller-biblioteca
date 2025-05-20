@@ -1,4 +1,4 @@
-#from Funcions import *
+from Funcions import *
 import os
 import time
 os.system("cls" if os.name == "nt" else "clear")
